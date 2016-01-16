@@ -1,7 +1,7 @@
 {
   "name": "medz/test-composer",
   "type": "project",
-  "require" {
+  "require": {
     "medz/lesspls": "~1.*",
     "laravel/framework": "@dev"
   }

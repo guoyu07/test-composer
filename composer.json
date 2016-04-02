@@ -4,5 +4,8 @@
   "require": {
     "php": ">=5.3",
     "medz/thinksns-installer-plugin": "@dev"
+  },
+  "extra": {
+    "install-name": "composer"
   }
 }

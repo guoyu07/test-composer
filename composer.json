@@ -1,9 +1,8 @@
 {
   "name": "medz/test-composer",
-  "type": "project",
+  "type": "thinksns-app",
   "require": {
-    "php": ">=5.6",
-    "medz/lesspls": "1.0.2",
-    "laravel/framework": "@dev"
+    "php": ">=5.3",
+    "medz/thinksns-installer-plugin": "@dev"
   }
 }
